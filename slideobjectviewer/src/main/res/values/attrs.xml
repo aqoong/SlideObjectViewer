@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="SlideObjectViewer">
+        <attr name="slideViewer_autoSlide" format="boolean"/>
+        <attr name="slideViewer_userIndicator" format="boolean"/>
+        <attr name="slideViewer_repeatTime" format="integer"/>
+        <attr name="slideViewer_showSide"   format="boolean"/>
+    </declare-styleable>
+    
+</resources>
